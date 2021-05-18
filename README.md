@@ -207,7 +207,7 @@ Upon completion, run the following commands:
 ```
 $ git add .
 $ git commit -m "done"
-$ git push origin master
+$ git push origin main
 ```
 
 Then create a Pull Request!!
